@@ -119,7 +119,7 @@ if( isClosure( arguments.body ) ){
 }
 ```
 
-## Lambda Expressions \(Lucee Only\)
+## Lambda Expressions \(Lucee and ColdFusion (2018 release) update 5 \)
 
 At the moment, only the Lucee CFML engine supports lambda expressions, which basically are a shorthand notation for defining closures.  
 
